@@ -2,10 +2,9 @@
 	File: fn_milkGoat2.sqf
 	Author: Bryan "Tonic" Boardwine
 	Edits: Ben "benkahoots"
-
+	
 	Description: 
 	Milks a Goat
-	
 */
 private["_obj"];
 _obj = cursorTarget;
