@@ -1,5 +1,5 @@
 /*
-  File: fn_gatherMilk.sqf
+  File: fn_milkGoat.sqf
   Author: Ben (Benkahoots)
   
   Description: 
@@ -20,3 +20,5 @@ if(_sum > 0) then
       titleText[“Milked Animal.","PLAIN"];
     };
 };
+
+life_action_in_use = false;
