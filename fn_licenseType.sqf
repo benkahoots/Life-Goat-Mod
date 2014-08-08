@@ -3,5 +3,5 @@ case "license_civ_dairyfarmer": {_var = “dairyfarmer"};  // in the lower field
 
 and 
 
-case “meatcook": {_var = "license_civ_meatcook"};  // in the upper field
-case "license_civ_meatcook": {_var = "meatcook"};  // in the lower field
+case “butcher": {_var = "license_civ_butcher"};  // in the upper field
+case "license_civ_butcher": {_var = "butcher"};  // in the lower field
