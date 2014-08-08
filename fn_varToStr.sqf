@@ -9,4 +9,4 @@ case "life_inv_mutton": {"Mutton"};
 case "life_inv_cmutton": {"Cooked Mutton"};
 
 case "license_civ_dairyfarmer": {"Dairy Farmer Training"};
-case "license_civ_butcher": {"Butcher"};   //and into License Block
+case "license_civ_butcher": {"Aussie Butcher"};   //and into License Block
