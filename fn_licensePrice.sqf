@@ -1,1 +1,2 @@
-case “dairyfamer”: {20000};
+case “dairyfamer”: {15000};
+case "meatcook": {5000};
