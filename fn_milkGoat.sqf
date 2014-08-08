@@ -1,5 +1,5 @@
 /*
-	File: fn_milkGoat2.sqf
+	File: fn_milkGoat.sqf
 	Author: Bryan "Tonic" Boardwine
 	Edits: Ben "benkahoots"
 	
